@@ -6,9 +6,15 @@
 
 An enterprise-grade Robotic Process Automation (RPA) solution developed in **Automation Anywhere (A360)** to automate agricultural vendor invoice reconciliation, cross-verify weighbridge logs and government Minimum Support Price (MSP) rate limits, execute web portal transactions, and maintain structured audit ledgers.
 
----
+## 📂 Project Assets & Live Demo Video
 
-## 📸 Execution Screenshots
+Since Automation Anywhere A360 enterprise bots operate in secure Control Rooms, the complete project portfolio has been exported for evaluation. 
+
+All execution assets—including the **Full Demonstration Video**, **Input/Output Excel Databases**, and **High-Resolution Screenshots**—are securely hosted in the project drive.
+
+👉 **[Access the Complete Project Portfolio Here](https://drive.google.com/drive/folders/18pFCH7mSzdvegXIi8ZqypnklWDcn9KdZ?usp=sharing)**<br>
+
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo%20Video-red?style=flat-square&logo=youtube)](https://drive.google.com/file/d/19okYoEklWdSr0WyunRplxRR0X_9-oivu/view?usp=sharing)
 
 ## 📸 Execution Screenshots
 
